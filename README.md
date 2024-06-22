@@ -1,7 +1,9 @@
 # Data-Analysis-Cyclistic-Case-Study
 
-Cycle Sharing Company Case Study: Predicting Demand and Optimization
+CYCLISTIC - Cycle Sharing Company Case Study: Predicting Demand and Optimization
+
 Overview
+
 Welcome to the Cyclistic Cycle Sharing Company Case Study! This is a Capstone Prject for my Google Data Analytics Course on Coursera. In this project, we delve into the world of urban mobility by analyzing data from a cycle sharing service. Our goal is to understand user behavior, predict demand, and optimize fleet management.
 
 Key Features
